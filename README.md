@@ -65,4 +65,4 @@ SMOTE is an over-sampling technique that synthesize new examples from the minori
 The chosen model was **XGBoost** and it was tuned to improve their parameters and scores.
 The difference between models performace is small, so the decision was made considering that XGBoost is the fastest to train. 
 
-Next steps would be to improve model performances checking mroe tuned parameters.
+Next steps would be to improve model performances checking more tuned parameters.
